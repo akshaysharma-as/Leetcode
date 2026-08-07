@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshaysharma-as/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1046-last-stone-weight](https://github.com/akshaysharma-as/Leetcode/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshaysharma-as/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/akshaysharma-as/Leetcode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
