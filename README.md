@@ -20,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/akshaysharma-as/Leetcode/tree/master/0001-two-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshaysharma-as/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0682-baseball-game](https://github.com/akshaysharma-as/Leetcode/tree/master/0682-baseball-game) |
 | [1046-last-stone-weight](https://github.com/akshaysharma-as/Leetcode/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
@@ -38,4 +39,12 @@
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/akshaysharma-as/Leetcode/tree/master/1046-last-stone-weight) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/akshaysharma-as/Leetcode/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/akshaysharma-as/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
