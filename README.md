@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/akshaysharma-as/Leetcode/tree/master/0367-valid-perfect-square) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/akshaysharma-as/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshaysharma-as/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
 |  |
@@ -22,6 +23,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshaysharma-as/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0682-baseball-game](https://github.com/akshaysharma-as/Leetcode/tree/master/0682-baseball-game) |
 | [1046-last-stone-weight](https://github.com/akshaysharma-as/Leetcode/tree/master/1046-last-stone-weight) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/akshaysharma-as/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/akshaysharma-as/Leetcode/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/akshaysharma-as/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Linked List
 |  |
 | ------- |
@@ -55,9 +58,14 @@
 ## Recursion
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/akshaysharma-as/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/akshaysharma-as/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/akshaysharma-as/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/akshaysharma-as/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
