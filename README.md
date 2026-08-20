@@ -43,8 +43,21 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/akshaysharma-as/Leetcode/tree/master/0682-baseball-game) |
+| [2487-remove-nodes-from-linked-list](https://github.com/akshaysharma-as/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/akshaysharma-as/Leetcode/tree/master/0682-baseball-game) |
+## Linked List
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/akshaysharma-as/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/akshaysharma-as/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/akshaysharma-as/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
