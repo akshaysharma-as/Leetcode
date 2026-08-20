@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshaysharma-as/Leetcode/tree/master/0001-two-sum) |
+| [0503-next-greater-element-ii](https://github.com/akshaysharma-as/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshaysharma-as/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0682-baseball-game](https://github.com/akshaysharma-as/Leetcode/tree/master/0682-baseball-game) |
 | [1046-last-stone-weight](https://github.com/akshaysharma-as/Leetcode/tree/master/1046-last-stone-weight) |
@@ -44,6 +45,7 @@
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/akshaysharma-as/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/akshaysharma-as/Leetcode/tree/master/0682-baseball-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/akshaysharma-as/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
@@ -63,6 +65,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/akshaysharma-as/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/akshaysharma-as/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
 |  |
