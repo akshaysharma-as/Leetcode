@@ -45,6 +45,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/akshaysharma-as/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshaysharma-as/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/akshaysharma-as/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/akshaysharma-as/Leetcode/tree/master/0682-baseball-game) |
@@ -71,10 +72,12 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/akshaysharma-as/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshaysharma-as/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/akshaysharma-as/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/akshaysharma-as/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshaysharma-as/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
