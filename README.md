@@ -45,6 +45,7 @@
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/akshaysharma-as/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/akshaysharma-as/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/akshaysharma-as/Leetcode/tree/master/0682-baseball-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/akshaysharma-as/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -70,5 +71,10 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/akshaysharma-as/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/akshaysharma-as/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/akshaysharma-as/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
