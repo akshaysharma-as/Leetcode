@@ -80,4 +80,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/akshaysharma-as/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshaysharma-as/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/akshaysharma-as/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
