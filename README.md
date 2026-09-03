@@ -85,4 +85,12 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/akshaysharma-as/Leetcode/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/akshaysharma-as/Leetcode/tree/master/0178-rank-scores) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/akshaysharma-as/Leetcode/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/akshaysharma-as/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
