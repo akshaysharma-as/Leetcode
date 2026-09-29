@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshaysharma-as/Leetcode/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/akshaysharma-as/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshaysharma-as/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Two Pointers
 |  |
@@ -93,4 +94,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/akshaysharma-as/Leetcode/tree/master/0191-number-of-1-bits) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/akshaysharma-as/Leetcode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
